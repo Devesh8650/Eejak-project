@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="bg-slate-600 py-12">
-      <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-6">
+      <div className="container mx-auto flex flex-col md:flex-row sm:flex-row items-center justify-between px-6">
         <div className="text-center md:text-left md:w-1/2 space-y-4">
           <h1 className="text-3xl md:text-5xl font-bold text-white leading-tight">
             Building Digital Products <br /> & Brands
